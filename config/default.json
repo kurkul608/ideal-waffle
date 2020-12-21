@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "jwtSecret": "MolchanovSecret mern",
+  "mongoUri": "mongodb+srv://petr:Qwerty1234@cluster0.wmyp3.mongodb.net/<dbname>?retryWrites=true&w=majority"
+}
